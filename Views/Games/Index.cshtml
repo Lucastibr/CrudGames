@@ -1,0 +1,48 @@
+﻿@model IEnumerable<CrudGames.Models.Game>
+
+
+@{
+    ViewData["Title"] = "Crud";
+}
+
+<h1>Crud de Jogos</h1>
+
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NomeDoJogo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecoDoJogo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Categoria)
+            </th>
+            <th>
+                <a asp-action="Create" class="btn btn-outline-success"><i class="far fa-plus-square"></i>Criar um novo jogo</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomeDoJogo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecoDoJogo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Categoria)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.GameId"><i class="fa fa-marker fa-lg"></i>Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.GameId">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.GameId" class="text-danger ml-1" onclick="return confirm('Você tem certeza que quer deletar isso?')"><i class="fa fa-trash-alt fa-lg"></i>Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

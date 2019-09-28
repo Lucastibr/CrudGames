@@ -1,0 +1,105 @@
+C:\Users\Lucas\source\repos\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.deps.json
+C:\Users\Lucas\source\repos\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.runtimeconfig.json
+C:\Users\Lucas\source\repos\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.dll
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorAssemblyInfo.cache
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorAssemblyInfo.cs
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.TagHelpers.input.cache
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.TagHelpers.output.cache
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorCoreGenerate.cache
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorTargetAssemblyInfo.cs
+C:\Users\Lucas\source\repos\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.pdb
+C:\Users\Lucas\source\repos\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.Views.dll
+C:\Users\Lucas\source\repos\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.Views.pdb
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.Views.pdb
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.dll
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.pdb
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.csproj.CopyComplete
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Create.g.cshtml.cs
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Delete.g.cshtml.cs
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Details.g.cshtml.cs
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Edit.g.cshtml.cs
+C:\Users\Lucas\source\repos\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Index.g.cshtml.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorAssemblyInfo.cache
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorAssemblyInfo.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.TagHelpers.input.cache
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.TagHelpers.output.cache
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorCoreGenerate.cache
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Create.g.cshtml.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Delete.g.cshtml.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Details.g.cshtml.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Edit.g.cshtml.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Index.g.cshtml.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorTargetAssemblyInfo.cs
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.dll
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.pdb
+C:\Users\Lucas\Desktop\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.deps.json
+C:\Users\Lucas\Desktop\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.runtimeconfig.json
+C:\Users\Lucas\Desktop\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.dll
+C:\Users\Lucas\Desktop\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.pdb
+C:\Users\Lucas\Desktop\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.Views.dll
+C:\Users\Lucas\Desktop\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.Views.pdb
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.Views.pdb
+C:\Users\Lucas\Desktop\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.csproj.CopyComplete
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.deps.json
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.runtimeconfig.json
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.runtimeconfig.dev.json
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.dll
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.pdb
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.Views.dll
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\bin\Debug\netcoreapp2.2\CrudGames.Views.pdb
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.csprojAssemblyReference.cache
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.csproj.CoreCompileInputs.cache
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorAssemblyInfo.cache
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorAssemblyInfo.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.AssemblyInfoInputs.cache
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.AssemblyInfo.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.TagHelpers.input.cache
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.TagHelpers.output.cache
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorCoreGenerate.cache
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Create.g.cshtml.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Delete.g.cshtml.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Details.g.cshtml.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Edit.g.cshtml.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Games\Index.g.cshtml.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorTargetAssemblyInfo.cache
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.RazorTargetAssemblyInfo.cs
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.Views.pdb
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.dll
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.pdb
+C:\Users\lukka\OneDrive\Área de Trabalho\CrudGames\obj\Debug\netcoreapp2.2\CrudGames.csproj.CopyComplete
