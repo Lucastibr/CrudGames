@@ -17,6 +17,6 @@ Add-Migration "Criacao"
 Passo 4: Terminado a criação, faça o comando Update-Database;
 *Ele irá preencher o seu BD com as migrações setadas em GameController.cs*
 
-Passo 5: Nisso, só apertar (ctrl + F5) pra abrir o projeto localhost,nisso coloque /Games no fim da url,(Isso no VS Studio), já no VS CODE, use no console dotnet restore e depois dotnet run.
+Passo 5: Nisso, só apertar (ctrl + F5) pra abrir o projeto localhost (Isso no VS Studio), já no VS CODE, use no console dotnet restore e depois dotnet run.
 
 Abraços;
